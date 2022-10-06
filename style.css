@@ -25,7 +25,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* adds font to header and padding*/
 header ul {
     list-style-type: none;
     padding-top: 15px;
