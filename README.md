@@ -1,7 +1,12 @@
-# horiseon
+# Horiseon Module 1
 
 ## description 
+Module 1 project was done with the need of cleaning semantics with html and css. it was done with out semantics and used alot of divs. I changed the divs using headers, and sections.
 
+What i learned :
+html and css coding with semantics 
+Simplify css codes into one 
+link files together 
 
 
 
